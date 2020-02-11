@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "64099847083",
+    "firebase_url": "https://project-2b0e2.firebaseio.com",
+    "project_id": "project-2b0e2",
+    "storage_bucket": "project-2b0e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64099847083:android:e8dbb3883af4f226b720ee",
+        "android_client_info": {
+          "package_name": "com.firas.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64099847083-h09q6fst5qfvl18sjq4v4vam1n4ndo1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxS1qX7Hc8S0vNiDlXicqFWYWiOk7keqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64099847083-h09q6fst5qfvl18sjq4v4vam1n4ndo1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
