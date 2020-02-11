@@ -26,7 +26,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 public class Emission_Act extends AppCompatActivity {
-    public static final String API_KEY = "c314b3b7d2e327286120b2131acf97bf";
+    public static final String API_KEY = "api_key";
     private static int totalPages;
     private Call<TvShowPageResult> call;
     private RecyclerView recyclerView;
